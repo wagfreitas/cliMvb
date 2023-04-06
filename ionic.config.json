@@ -1,0 +1,7 @@
+{
+  "name": "cliMvb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
